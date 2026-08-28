@@ -83,18 +83,18 @@ Mantengo mi propio nodo doméstico 24/7 para desarrollo, pruebas y producción p
   ┌─────────────────────────────▼───────────────────────────────────┐
   │                 HOMELAB SERVER (Debian Linux)                   │
   │                                                                 │
-  │  🌐 APLICACIONES & HUBS   🛡️ RED & DNS           🔐 SEGURIDAD   │
-  │  ├─ Portfolio Hub (8085)  ├─ AdGuard Home (DNS)  └─ Vaultwarden │
-  │  ├─ Kairós UTN (8088)     └─ Tailscale Mesh Net                 │
-  │  ├─ El Canuto (8086)                                            │
-  │  └─ Track Backend (8091)  📈 TELEMETRÍA          ⚡ REVERSE PROXY│
+  │  🌐 APLICACIONES & HUBS   🛡️ RED & DNS           🔐 SEGURIDAD  │
+  │  ├─ Portfolio Hub         ├─ AdGuard Home (DNS)  └─ Vaultwarden │
+  │  ├─ Kairós UTN            └─ Tailscale Mesh Net                 │
+  │  ├─ El Canuto                                                   │
+  │  └─ Track Backend         📈 TELEMETRÍA          ⚡ REVERSE PROXY│
   │                           ├─ Uptime Kuma         └─ Caddy Proxy │
-  │  📦 ORQUESTACIÓN          └─ Glances Metrics        (Auto HTTPS)│
+  │  📦 ORQUESTACIÓN          └─ Glances Metrics                    │
   │  └─ Docker Compose                                              │
   └─────────────────────────────────────────────────────────────────┘
 ```
 
-* 🛡️ **Seguridad Perimetral:** Cloudflare Zero Trust Tunnels y Tailscale Mesh (cero puertos abiertos en el router residencial).
+* 🛡️ **Seguridad Perimetral:** Cloudflare Zero Trust Tunnels y Tailscale Mesh.
 * ⚡ **Reverse Proxy:** Caddy gestionando nombres de dominio, compresión y certificados TLS automáticos.
 * 📈 **Disponibilidad & Métricas:** Uptime Kuma para chequeo continuo de latencia/uptime y Glances para telemetría de hardware.
 * 🔐 **Privacidad & Credenciales:** AdGuard Home para filtrado DNS de red y Vaultwarden con backups programados.
@@ -120,8 +120,7 @@ Mantengo mi propio nodo doméstico 24/7 para desarrollo, pruebas y producción p
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzlopez07&show_icons=true&bg_color=130907&title_color=fdb813&text_color=fed18c&icon_color=feb47b&border_color=3d1e14&hide_border=false&count_private=true" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzlopez07&layout=compact&bg_color=130907&title_color=fdb813&text_color=fed18c&border_color=3d1e14&hide_border=false" alt="Lenguajes más usados" height="165" />
+  <img src="https://streak-stats.demolab.com?user=nzlopez07&background=130907&border=3d1e14&stroke=fdb813&ring=feb47b&fire=c84b1a&currStreakNum=fed18c&sideNums=fed18c&currStreakLabel=fdb813&sideLabels=fdb813&dates=a36a4a&hide_border=false" alt="Racha y Contribuciones en GitHub" width="95%" />
 </div>
 
 <br/>
