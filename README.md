@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER DINÁMICO KAZUHA AUTUMN / SUNSET THEME -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130907,25:3D0E11,55:8E2800,80:C84B1A,100:FDB813&height=230&section=header&text=Nicolas%20Lopez&fontSize=48&fontAlignY=38&desc=%F0%9F%8D%81%20Hey!%20Bienvenido%20a%20mi%20espacio%20en%20GitHub&descAlignY=62&descAlign=50&fontColor=FFF3E0&descColor=FDB813&animation=fadeIn" width="100%" alt="Kazuha Autumn Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130907,25:3D0E11,55:8E2800,80:C84B1A,100:FDB813&height=230&section=header&text=Nicolas%20Lopez&fontSize=48&fontAlignY=38&desc=%C2%A1Bienvenidos%20a%20mi%20espacio!&descAlignY=62&descAlign=50&fontColor=FFF3E0&descColor=FDB813&animation=fadeIn" width="100%" alt="Kazuha Autumn Header Banner" />
 
 <br/>
 
@@ -118,12 +118,6 @@ Mantengo mi propio nodo doméstico 24/7 para desarrollo, pruebas y producción p
 ---
 
 ### 📊 Actividad en GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nzlopez07&background=130907&border=3d1e14&stroke=fdb813&ring=feb47b&fire=c84b1a&currStreakNum=fed18c&sideNums=fed18c&currStreakLabel=fdb813&sideLabels=fdb813&dates=a36a4a&hide_border=false" alt="Racha y Contribuciones en GitHub" width="95%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzlopez07&background=130907&border=3d1e14&stroke=fdb813&ring=feb47b&fire=c84b1a&currStreakNum=fed18c&sideNums=fed18c&currStreakLabel=fdb813&sideLabels=fdb813&dates=a36a4a&hide_border=false" alt="Racha en GitHub" />
